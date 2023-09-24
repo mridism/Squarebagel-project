@@ -1,0 +1,36 @@
+<svg width="95" height="175" viewBox="0 0 95 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_10_883)">
+<path d="M-10.4202 107.01L-14.6663 85.3838L43.3507 61.0176L47.6005 82.6459L-10.4202 107.01Z" fill="url(#paint0_linear_10_883)"/>
+<path d="M-18.0725 21.6222L-22.3208 0L81.6892 63.2703L85.9376 84.8925L-18.0725 21.6222Z" fill="url(#paint1_linear_10_883)"/>
+<path d="M-33.5774 135.075L-37.8257 113.452L-22.3208 0L-18.0725 21.6222L-33.5774 135.075Z" fill="url(#paint2_linear_10_883)"/>
+<path d="M85.9376 84.8926L-33.5774 135.075L-18.0725 21.6222L85.9376 84.8926ZM-2.88659 51.9323L-10.4179 107.006L47.599 82.6398L-2.89039 51.93" fill="url(#paint3_linear_10_883)"/>
+<g style="mix-blend-mode:multiply" opacity="0.74">
+<path d="M-33.5774 135.075L-37.8257 113.452L-22.3208 0L-18.0725 21.6222L-33.5774 135.075Z" fill="url(#paint4_linear_10_883)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_10_883" x1="13.2315" y1="66.7589" x2="19.7065" y2="101.52" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C4BE"/>
+<stop offset="0.99"/>
+</linearGradient>
+<linearGradient id="paint1_linear_10_883" x1="22.3087" y1="-8.18646" x2="41.2228" y2="93.3523" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C4BE"/>
+<stop offset="0.99"/>
+</linearGradient>
+<linearGradient id="paint2_linear_10_883" x1="-39.9804" y1="3.4164" x2="-16.0411" y2="131.933" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C4BE"/>
+<stop offset="0.99"/>
+</linearGradient>
+<linearGradient id="paint3_linear_10_883" x1="8.68333" y1="16.7628" x2="28.588" y2="123.62" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8568D4"/>
+<stop offset="0.99" stop-color="#DFAB77"/>
+</linearGradient>
+<linearGradient id="paint4_linear_10_883" x1="-39.9804" y1="3.4164" x2="-16.0411" y2="131.933" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C4BE"/>
+<stop offset="0.99"/>
+</linearGradient>
+<clipPath id="clip0_10_883">
+<rect width="136.533" height="121.529" fill="white" transform="translate(-22.3208) rotate(31.0479)"/>
+</clipPath>
+</defs>
+</svg>
